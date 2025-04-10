@@ -1,5 +1,4 @@
 venv/
 glove.6B.50d.txt
-image_features.pkl
 captions.txt
 Images/
