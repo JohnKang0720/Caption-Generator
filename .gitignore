@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 venv/
 glove.6B.50d.txt
 image_features.pkl
 captions.txt
+Images/
+=======
+venv/
+>>>>>>> 49dacfd23cb673b87e8c49880774a71eed7ab894
