@@ -2,3 +2,5 @@ venv/
 glove.6B.50d.txt
 captions.txt
 Images/
+visual_dataset/
+twitter_images/
